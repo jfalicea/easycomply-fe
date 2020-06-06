@@ -1,0 +1,7 @@
+nav {
+  padding: 15px;
+  display: flex;
+  height: auto;
+  overflow: hidden;
+  border: 1px pink solid;
+}

@@ -1,0 +1,18 @@
+main {
+  border: 1px black solid;
+}
+
+#modal {
+  border: 1px red solid;
+  height: 350px;
+  width: 350px;
+  position: absolute;
+  top: 50px;
+  left: 150px;
+  background-color: white;
+  overflow: hidden;
+}
+
+.riskQuestions {
+  list-style: none;
+}

@@ -1,0 +1,22 @@
+#welcome-section {
+  display: flex;
+  flex-direction: column;
+}
+
+#welcome-section > p {
+  margin: auto;
+}
+
+#login-box {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  border: 1px black solid;
+  width: 300px;
+  height: auto;
+  border-radius: 5px;
+}
+
+#login-box > button {
+  margin: auto;
+}
